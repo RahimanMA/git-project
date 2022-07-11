@@ -1,1 +1,2 @@
-This is my first file. Checking the commit
+This is my first file. Checking the commit.
+Testing single commit
