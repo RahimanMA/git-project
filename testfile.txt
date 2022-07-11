@@ -1,1 +1,2 @@
-This is my test branch file after resolving the merge conflict
+This is my test branch file after resolving the merge conflict.
+Testing single commit
